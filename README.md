@@ -18,7 +18,7 @@ IceTorrent — это минималистичный и быстрый торр�
 - 🧩 Модульная структура (12 файлов + Cargo.toml)
 
 <p align="center">
-  <img src="forReadme/scr.png" width="300" alt="IceTorrent Logo"/>
+  <img src="forReadme/scrn.png" width="300" alt="IceTorrent Logo"/>
 </p>
 
 ---
