@@ -17,12 +17,18 @@ IceTorrent — это минималистичный и быстрый торр�
 - 🎨 Красивый интерфейс в стиле Frutiger Aero  
 - 🧩 Модульная структура (12 файлов + Cargo.toml)
 
+<p align="center">
+  <img src="forReadme/scr.png" width="300" alt="IceTorrent Logo"/>
+</p>
+
 ---
 
 ## 📦 Установка
 
 ### Сборка из исходников
 `sh
+
 git clone https://github.com/ButterTim/IceTorrent.git
 cd IceTorrent
+
 cargo build --release
